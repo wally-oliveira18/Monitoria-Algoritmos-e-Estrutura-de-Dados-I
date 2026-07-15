@@ -1,0 +1,14 @@
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\bin\Debug\net10.0\Exercicio4.exe
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\bin\Debug\net10.0\Exercicio4.deps.json
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\bin\Debug\net10.0\Exercicio4.runtimeconfig.json
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\bin\Debug\net10.0\Exercicio4.dll
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\bin\Debug\net10.0\Exercicio4.pdb
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.AssemblyInfo.cs
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.dll
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\refint\Exercicio4.dll
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.pdb
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\Exercicio4.genruntimeconfig.cache
+C:\Users\walli\OneDrive\Ambiente de Trabalho\Algoritmos e Estruturas de Dados I\TAD\ConstrutoresDestrutores\Exercicio4\obj\Debug\net10.0\ref\Exercicio4.dll
