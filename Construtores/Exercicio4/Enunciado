@@ -1,0 +1,22 @@
+Crie uma classe Conta.
+
+A conta possui:
+
+- Número
+- Titular
+- Saldo
+- Limite
+- Requisitos
+
+Implemente os seguintes construtores:
+
+- Conta vazia.
+- Conta com número e titular.
+- Conta com número, titular e saldo.
+- Conta completa.
+
+Implemente:
+
+- Depositar()
+- Sacar()
+- Transferir()
