@@ -1,0 +1,21 @@
+Uma empresa deseja controlar seus funcionários.
+
+Cada funcionário possui:
+
+- Nome
+- Cargo
+- Salário
+- Departamento
+- Requisitos
+
+Implemente:
+
+- construtor vazio;
+- construtor recebendo nome e cargo;
+- construtor completo.
+
+Métodos:
+
+- AumentarSalario()
+- TransferirDepartamento()
+- ExibirDados()
