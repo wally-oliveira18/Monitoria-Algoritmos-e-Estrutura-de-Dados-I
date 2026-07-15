@@ -1,0 +1,23 @@
+Uma loja deseja controlar seus produtos.
+
+Cada produto possui:
+
+- Código
+- Nome
+- Preço
+- Quantidade em estoque
+- Requisitos
+
+Implemente uma classe Produto contendo:
+
+- construtor vazio;
+- construtor que receba código, nome e preço;
+- construtor que receba todos os atributos.
+
+Implemente ainda os métodos:
+
+- ReporEstoque()
+- Vender()
+- ValorTotalEstoque()
+
+Cadastre três produtos utilizando construtores diferentes e exiba seus dados.
