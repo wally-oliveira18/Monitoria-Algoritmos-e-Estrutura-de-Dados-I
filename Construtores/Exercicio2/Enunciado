@@ -1,0 +1,22 @@
+Uma universidade deseja armazenar informações de seus alunos.
+
+Cada aluno possui:
+
+- Matrícula
+- Nome
+- Curso
+- Período
+- CRA
+- Requisitos
+
+Crie a classe Aluno.
+
+Implemente dois construtores:
+
+- um recebendo apenas matrícula e nome;
+- outro recebendo todos os atributos.
+
+Implemente os métodos:
+
+- AvancarPeriodo()
+- AtualizarCRA()
